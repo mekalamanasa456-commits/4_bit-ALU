@@ -1,0 +1,12 @@
+expected console output 
+A     = 0101 ( 5)
+B     = 0011 ( 3)
+--------------------------------
+ADD       : Result = 1000, Carry = 0
+SUBTRACT  : Result = 0010, Carry = 0
+AND       : Result = 0001, Carry = 0
+OR        : Result = 0111, Carry = 0
+XOR       : Result = 0110, Carry = 0
+NOT A     : Result = 1010, Carry = 0
+INCREMENT : Result = 0110, Carry = 0
+DECREMENT : Result = 0100, Carry = 0
